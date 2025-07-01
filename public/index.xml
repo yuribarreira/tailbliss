@@ -1,18 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TailBliss</title><link>https://tailbliss.netlify.app/</link><description>Recent content on TailBliss</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 Jun 2022 11:10:36 +0800</lastBuildDate><atom:link href="https://tailbliss.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog Post 1</title><link>https://tailbliss.netlify.app/posts/blog-post-1/</link><pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/blog-post-1/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>News Post 1</title><link>https://tailbliss.netlify.app/posts/news-post-1/</link><pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/news-post-1/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>News Post 2</title><link>https://tailbliss.netlify.app/posts/news-post-2/</link><pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/news-post-2/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>News Post 4</title><link>https://tailbliss.netlify.app/posts/news-post-4/</link><pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/news-post-4/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p></description></item><item><title>News Post 5</title><link>https://tailbliss.netlify.app/posts/news-post-5/</link><pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/news-post-5/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p></description></item><item><title>News Post 6</title><link>https://tailbliss.netlify.app/posts/news-post-6/</link><pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/news-post-6/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p></description></item><item><title>About</title><link>https://tailbliss.netlify.app/about/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/about/</guid><description>h1 Heading 😊 h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
-!!!!!! ???? ,, &amp;ndash; &amp;mdash;
-&amp;ldquo;Smartypants, double quotes&amp;rdquo; and &amp;lsquo;single quotes&amp;rsquo;
-Emphasis This is bold text
-This is bold text
-This is italic text
-This is italic text
-Strikethrough
-Blockquotes Blockquotes can also be nested&amp;hellip;</description></item><item><title>Blog Post 2</title><link>https://tailbliss.netlify.app/posts/blog-post-2/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/blog-post-2/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Blog Post 3</title><link>https://tailbliss.netlify.app/posts/blog-post-3/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/blog-post-3/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Blog Post 4</title><link>https://tailbliss.netlify.app/posts/blog-post-4/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/blog-post-4/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Blog Post 5</title><link>https://tailbliss.netlify.app/posts/blog-post-5/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/blog-post-5/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Blog Post 6</title><link>https://tailbliss.netlify.app/posts/blog-post-6/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/blog-post-6/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Contact</title><link>https://tailbliss.netlify.app/contact/</link><pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate><guid>https://tailbliss.netlify.app/contact/</guid><description> Got a technical issue? Want to send feedback about a beta feature? Need details about our Business plan? Let us know.
-Your Email: Subject: Your message: Send Message</description></item><item><title>News Post 3</title><link>https://tailbliss.netlify.app/posts/news-post-3/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/posts/news-post-3/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description></item><item><title>Prose</title><link>https://tailbliss.netlify.app/prose/</link><pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate><guid>https://tailbliss.netlify.app/prose/</guid><description>@tailwindcss/typography View on GitHub!
-Beautiful typographic defaults for HTML you don&amp;rsquo;t control.
-The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.
-Tailwind CSS IntelliSense extension for Visual Studio Code
-&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;
-{{ markdown }}
-&amp;lt;/article&amp;gt; To see what it looks like in action, check out our live demo on Tailwind Play.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TailBliss</title>
+    <link>http://localhost:3000/</link>
+    <description>Recent content on TailBliss</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 02 Nov 2022 01:02:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:3000/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Post 1</title>
+      <link>http://localhost:3000/posts/blog-post-1/</link>
+      <pubDate>Sat, 18 Jun 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/blog-post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>News Post 1</title>
+      <link>http://localhost:3000/posts/news-post-1/</link>
+      <pubDate>Wed, 18 May 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/news-post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>News Post 2</title>
+      <link>http://localhost:3000/posts/news-post-2/</link>
+      <pubDate>Mon, 18 Apr 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/news-post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>News Post 4</title>
+      <link>http://localhost:3000/posts/news-post-4/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/news-post-4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News Post 5</title>
+      <link>http://localhost:3000/posts/news-post-5/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/news-post-5/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News Post 6</title>
+      <link>http://localhost:3000/posts/news-post-6/</link>
+      <pubDate>Fri, 18 Mar 2022 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/news-post-6/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog Post 2</title>
+      <link>http://localhost:3000/posts/blog-post-2/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/blog-post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 3</title>
+      <link>http://localhost:3000/posts/blog-post-3/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/blog-post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 4</title>
+      <link>http://localhost:3000/posts/blog-post-4/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/blog-post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 5</title>
+      <link>http://localhost:3000/posts/blog-post-5/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/blog-post-5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Blog Post 6</title>
+      <link>http://localhost:3000/posts/blog-post-6/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/blog-post-6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Contato</title>
+      <link>http://localhost:3000/contact/</link>
+      <pubDate>Sat, 18 Dec 2021 03:10:36 +0000</pubDate>
+      <guid>http://localhost:3000/contact/</guid>
+      <description>&lt;!-- @format --&gt;&#xD;&#xA;&lt;section class=&#34;lg:pb-24&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;max-w-screen-md px-4 mx-auto&#34;&gt;&#xD;&#xA;      &lt;p class=&#34;mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl&#34;&gt;Tem algum problema técnico? Quer enviar comentários sobre um recurso em teste? Precisa de detalhes sobre nossos planos? Entre em contato conosco.&lt;/p&gt;&#xD;&#xA;      &lt;form name=&#34;contact&#34; netlify class=&#34;space-y-8&#34;&gt;&#xD;&#xA;          &lt;div class=&#34;my-4&#34;&gt;&#xD;&#xA;              &lt;label for=&#34;email&#34; class=&#34;block mb-2 font-medium text-gray-900 text-md dark:text-gray-300&#34;&gt;&lt;strong&gt;Seu Email:&lt;/strong&gt;&lt;/label&gt;&#xD;&#xA;              &lt;input type=&#34;email&#34; id=&#34;email&#34; class=&#34;shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light&#34; placeholder=&#34;seu.email@exemplo.com&#34; required&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;          &lt;div class=&#34;my-4&#34;&gt;&#xD;&#xA;              &lt;label for=&#34;subject&#34; class=&#34;block mb-2 font-medium text-gray-900 text-md dark:text-gray-300&#34;&gt;&lt;strong&gt;Assunto:&lt;/strong&gt;&lt;/label&gt;&#xD;&#xA;              &lt;input type=&#34;text&#34; id=&#34;subject&#34; class=&#34;block w-full p-3 text-gray-900 border border-gray-300 rounded-lg shadow-sm text-md bg-gray-50 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light&#34; placeholder=&#34;Nos conte como podemos ajudá-lo&#34; required&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;          &lt;div class=&#34;my-4 sm:col-span-2&#34;&gt;&#xD;&#xA;              &lt;label for=&#34;message&#34; class=&#34;block mb-2 font-medium text-gray-900 text-md dark:text-gray-400&#34;&gt;&lt;strong&gt;Sua mensagem:&lt;/strong&gt;&lt;/label&gt;&#xD;&#xA;              &lt;textarea id=&#34;message&#34; rows=&#34;6&#34; class=&#34;block p-2.5 w-full text-md text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500&#34; placeholder=&#34;Deixe seu comentário...&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;          &lt;div class=&#34;mt-6 lg:pb-16&#34;&gt;&#xD;&#xA;             &lt;button type=&#34;submit&#34; class=&#34;px-5 py-3 font-bold text-center text-white bg-indigo-600 rounded-lg text-md sm:w-fit hover:bg-indigo-800 focus:ring-4 focus:outline-none focus:ring-indigo-300 dark:bg-indigo-600 dark:hover:bg-indigo-700 dark:focus:ring-indigo-800&#34;&gt;Enviar Mensagem&lt;/button&gt;&#xD;&#xA;          &lt;/div&gt;&#xD;&#xA;      &lt;/form&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>News Post 3</title>
+      <link>http://localhost:3000/posts/news-post-3/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/posts/news-post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.</description>
+    </item>
+    <item>
+      <title>Prose</title>
+      <link>http://localhost:3000/prose/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/prose/</guid>
+      <description>&lt;h2 id=&#34;tailwindcsstypography&#34;&gt;@tailwindcss/typography&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tailwindlabs/tailwindcss-typography&#34;&gt;View on GitHub&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Beautiful typographic defaults for HTML you don&amp;rsquo;t control.&lt;/p&gt;&#xA;&lt;p&gt;The official Tailwind CSS Typography plugin provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don’t control, like HTML rendered from Markdown, or pulled from a CMS.&lt;/p&gt;&#xA;&lt;p&gt;Tailwind CSS IntelliSense extension for Visual Studio Code&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;article class=&amp;#34;prose lg:prose-xl&amp;#34;&amp;gt;&#xD;&#xA;  {{ markdown }}&#xD;&#xA;&amp;lt;/article&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To see what it looks like in action, check out our &lt;a href=&#34;https://play.tailwindcss.com/uj1vGACRJA?layout=preview&#34;&gt;live demo&lt;/a&gt; on Tailwind Play.&#xA;​&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:3000/about/</link>
+      <pubDate>Sat, 18 Dec 2021 11:10:36 +0800</pubDate>
+      <guid>http://localhost:3000/about/</guid>
+      <description>&lt;h1 id=&#34;sobre-o-tailbliss-blush&#34;&gt;Sobre o TailBliss &amp;#x1f60a;&lt;/h1&gt;&#xA;&lt;p&gt;O TailBliss é um tema moderno e responsivo para Hugo, desenvolvido com Tailwind CSS. Este tema foi criado para oferecer uma experiência de usuário excepcional, com design elegante e funcionalidades avançadas.&lt;/p&gt;&#xA;&lt;h2 id=&#34;características-principais&#34;&gt;Características Principais&lt;/h2&gt;&#xA;&lt;h3 id=&#34;design-responsivo&#34;&gt;Design Responsivo&lt;/h3&gt;&#xA;&lt;p&gt;O tema é totalmente responsivo e se adapta perfeitamente a todos os dispositivos, desde smartphones até desktops.&lt;/p&gt;&#xA;&lt;h3 id=&#34;modo-escuro&#34;&gt;Modo Escuro&lt;/h3&gt;&#xA;&lt;p&gt;Suporta modo escuro nativo, permitindo aos usuários alternar entre temas claro e escuro conforme sua preferência.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

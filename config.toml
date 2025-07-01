@@ -1,14 +1,17 @@
 baseURL = "https://tailbliss.netlify.app/"
 title = "TailBliss"
 
-languageCode = "en-us"
-DefaultContentLanguage = "en"
+languageCode = "pt-br"
+DefaultContentLanguage = "pt"
 
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
-paginate = 9
+relativeURLs = false
+removePathAccents = true
+[pagination]
+pagerSize = 9
 darkmode_js = ["assets/js/darkmode.js"]
 
 enableInlineShortcodes = true
@@ -16,12 +19,9 @@ enableInlineShortcodes = true
 [params]
 author = "Nusser Studios"
 authorimage = "../assets/images/global/author.webp"
-github = "https://github.com/nusserstudios"
-facebook = "https://facebook.com/nusserstudios"
 og_image = "/images/tailbliss-cover.png"
 sitename = "TailBliss"
-twitter = "@nusserstudios"
-description = "TailBliss is Hugo Starter"
+description = "TailBliss é um tema inicial moderno e responsivo para Hugo, criado com Tailwind CSS"
 
 [markup]
 [markup.goldmark]
@@ -29,34 +29,42 @@ description = "TailBliss is Hugo Starter"
 unsafe = true
 
 [taxonomies]
-category = "Categories"
+category = "Categorias"
 tag = "Tags"
 
 [privacy]
 [privacy.disqus]
-disable = false
+disable = true
 [privacy.googleAnalytics]
 anonymizeIP = true
-disable = false
-respectDoNotTrack = false
+disable = true
+respectDoNotTrack = true
 useSessionStorage = false
 [privacy.instagram]
-disable = false
-simple = false
+disable = true
+simple = true
 [privacy.twitter]
-disable = false
-enableDNT = false
-simple = false
+disable = true
+enableDNT = true
+simple = true
 [privacy.vimeo]
-disable = false
-enableDNT = false
-simple = false
+disable = true
+enableDNT = true
+simple = true
 [privacy.youtube]
-disable = false
+disable = true
 privacyEnhanced = true
+
+[build]
+  publish = "public"
+  command = "hugo --minify --gc"
+
+[context.production.environment]
+  HUGO_VERSION = "0.147.8"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
 
 [module]
   [module.hugoVersion]
     extended = true
     min = "0.105.0"
-    max = "0.105.0"

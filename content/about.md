@@ -1,53 +1,36 @@
 ---
-title: "About"
+title: "Sobre"
 date: 2021-12-18T11:10:36+08:00
 draft: false
-language: en
-description: About Us
+language: pt
+description: Sobre Nós
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
-# h1 Heading :blush:
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# Sobre o TailBliss :blush:
 
+O TailBliss é um tema moderno e responsivo para Hugo, desenvolvido com Tailwind CSS. Este tema foi criado para oferecer uma experiência de usuário excepcional, com design elegante e funcionalidades avançadas.
 
-## Horizontal Rules
+## Características Principais
 
-***
+### Design Responsivo
+O tema é totalmente responsivo e se adapta perfeitamente a todos os dispositivos, desde smartphones até desktops.
 
----
+### Modo Escuro
+Suporta modo escuro nativo, permitindo aos usuários alternar entre temas claro e escuro conforme sua preferência.
 
-___
+### Performance Otimizada
+Construído com foco em performance, garantindo carregamento rápido e experiência fluida.
 
+## Tecnologias Utilizadas
 
-## Typographic replacements
+**Hugo** - Gerador de sites estáticos rápido e flexível
 
-Enable typographer option to see result.
+**Tailwind CSS** - Framework CSS utilitário para estilização moderna
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+**JavaScript** - Para funcionalidades interativas
 
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
+**Netlify** - Plataforma de deploy e hospedagem
 
 
 ## Blockquotes
